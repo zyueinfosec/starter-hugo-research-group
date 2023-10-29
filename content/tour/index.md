@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Department of Computer Science 
         content: Our CS department programs are recognized by employers as some of the best in the region and across the country, and many of our students have been recruited by Microsoft, Amazon, Google, and other nationally and internationally prestigious companies.
         align: left
         background:
