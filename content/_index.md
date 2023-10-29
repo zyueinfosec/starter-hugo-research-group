@@ -7,6 +7,8 @@ type: landing
 sections:
   - block: hero
     content:
+      title: |
+        Security and Privacy Analytics Lab (SePAL)
       image:
         filename: welcome.jpg
       text: |
