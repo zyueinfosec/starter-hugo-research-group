@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. In the context of security labs, "Sepal" is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of security labs in the realm of cybersecurity and information security.
+<font size="5"> The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. In the context of security labs, "Sepal" is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of security labs in the realm of cybersecurity and information security.</font>
   
   - block: collection
     content:
