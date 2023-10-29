@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: Our CS department programs are recognized by employers as some of the best in the region and across the country, and many of our students have been recruited by Microsoft, Amazon, Google, and other nationally and internationally prestigious companies.
         align: left
         background:
           image:
