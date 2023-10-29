@@ -9,7 +9,8 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to SePAL
-        content: Take a look at what we're working on...
+        content: 
+ <font size="3"> Drexel University, located in Philadelphia, Pennsylvania, is renowned for its strong emphasis on experiential learning and cutting-edge programs. Among its notable offerings, Drexel's Computer Science department stands out. With a commitment to innovation and technology, Drexel's Computer Science program prepares students for success in the rapidly evolving world of computing, offering a blend of rigorous coursework and hands-on experience to foster skills and expertise essential in today's digital landscape. </font>
         align: center
         background:
           image:
