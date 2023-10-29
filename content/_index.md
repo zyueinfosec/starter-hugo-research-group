@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        A "sepal" shields and supports flower petals, often green, guarding the bud before blooming.  "Sepal" likens this protection to privacy and security.
+        <font size="3"> A "sepal" shields and supports flower petals, often green, guarding the bud before blooming.  "Sepal" likens this protection to privacy and security.</font>
   
   - block: collection
     content:
