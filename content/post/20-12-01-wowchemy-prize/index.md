@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Eric and Yue will serve TPC Members for USENIX Security 2024 
+date: 2023-06-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Eric and Yue will serve TPC Members for USENIX Security 2024 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+USENIX Security is a prestigious and highly regarded academic conference in the field of computer security and privacy. It is organized by the USENIX Association, a nonprofit organization that focuses on advancing the field of computing. The USENIX Security conference provides a platform for researchers, practitioners, and experts to present and discuss the latest research findings, developments, and trends in computer security and privacy.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+The significance of USENIX Security lies in its role as a leading venue for the dissemination of cutting-edge research in the field. Researchers and professionals in the cybersecurity community consider it an important event to attend and present their work. The conference typically features papers and presentations on a wide range of topics, including network security, cryptography, privacy-enhancing technologies, malware analysis, and more. USENIX Security is one of the "big four" conferences in the field of computer security and privacy, alongside other prestigious events like ACM CCS, IEEE S&P, and NDSS. Being a Technical Program Committee (TPC) member for USENIX Security is an exceptionally challenging and esteemed role. TPC members are responsible for reviewing and selecting the highest-quality research papers in the field, making the selection process highly competitive and demanding. Serving on the TPC is a significant recognition of expertise in the field and demonstrates a deep commitment to advancing the state of computer security and privacy research.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+

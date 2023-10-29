@@ -1,5 +1,5 @@
 ---
-title: Yue Zhang Appointed Editor for PeerJ CS and CMS (2023)
+title: Yue Zhang Appointed Editor for PeerJ CS and CMC (2023)
 date: 2023-10-29
 image:
   focal_point: 'top'
