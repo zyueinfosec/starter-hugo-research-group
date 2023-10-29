@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Department of Computer Science 🎓
+      - title: Department of Computer Science 
         content: Our CS department programs are recognized by employers as some of the best in the region and across the country, and many of our students have been recruited by Microsoft, Amazon, Google, and other nationally and internationally prestigious companies.
         align: left
         background:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: SePAL
-        content: The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. **"SePAL"** is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of our security lab in the realm of information privacy and security.
+      - title: Security and Privacy Analytics Lab (SePAL)
+        content: A "sepal" is a leaf-like structure that shields and supports flower petals. Our security lab, "SePAL," links this protection to information privacy and security.
         align: right
         background:
           image:
