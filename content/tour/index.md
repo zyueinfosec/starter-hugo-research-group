@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to SePAL (Drexel)
+      - title: 👋 Welcome to Drexel
         content: Drexel University, located in Philadelphia, Pennsylvania, is renowned for its strong emphasis on experiential learning and cutting-edge research programs (R1). 
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Department of Computer Science 
+      - title: Department of Computer Science 🎓
         content: Our CS department programs are recognized by employers as some of the best in the region and across the country, and many of our students have been recruited by Microsoft, Amazon, Google, and other nationally and internationally prestigious companies.
         align: left
         background:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: SePAL
+        content: The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. **"SePAL"** is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of our security lab in the realm of information privacy and security.
         align: right
         background:
           image:
