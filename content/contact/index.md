@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2023-10-24
 
 type: landing
 
@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        Multiple fully-funded CS Ph.D. positions are available in my group at Drexel University in the area of Computer Security and Privacy with an emphasis on the human factors. Some of the research focuses on e-crime, threat intelligence, underground economies, Internet fraud, and web security.
-      email: zs384@drexel.edu
+        Multiple fully-funded CS Ph.D. positions are available in our group at Drexel University in the area of Computer Security and Privacy with an emphasis on the human factors. Some of the research focuses on e-crime, threat intelligence, underground economies, Internet fraud, program analysis, IoT security, mobile security and web security.
+      email: zs384@drexel.edu,yz899@drexel.edu
       phone: 215-895-6237
       address:
         street: 3675 Market Street
