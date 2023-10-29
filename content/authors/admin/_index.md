@@ -21,9 +21,7 @@ organizations:
 bio: Eric Sun is an Assistant Professor in the College of Computing & Informatics (CCI) at Drexel University. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Security and Privacy
 
   
 

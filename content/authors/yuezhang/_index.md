@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Eric(Zhibo) Sun
+title: Yue Zhang
 
 # Full Name (for SEO)
-first_name: Eric (Zhibo)
-last_name: Sun
+first_name: Yue
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eric Sun is an Assistant Professor in the College of Computing & Informatics (CCI) at Drexel University. 
+bio: Yue Zhang is an assistant professor at Drexel University’s Computer Science department. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - IoT Security
+  - Mobile Security
+  - Bluetooth Security
 
   
 
@@ -34,13 +34,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zs384@drexel.edu'
+    link: 'mailto:yz899@drexel.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/_ericsun_
+    link:  
   - icon: google-scholar
     icon_pack: ai
-    link:  https://scholar.google.com/citations?user=Y6FfNi0AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=2RpZGTYAAAAJ
   - icon: github
     icon_pack: fab
     link:  
@@ -62,6 +62,4 @@ user_groups:
   - Researchers
 ---
 
-Eric Sun is an Assistant Professor in the College of Computing & Informatics (CCI) at Drexel University. 
- He received his Ph.D. in Computer Science from Arizona State University, co-advised by Prof. Gail-Joon Ahn and Prof. Adam Doupé.
-His research interests lie broadly in the area of computer security and privacy. In his research, he applies data-driven analytics to study real-world computer security problems and investigates human vulnerabilities by analyzing users' security behaviors and decision-making processes. In particular, some of his research focuses on e-crime, threat intelligence, underground economies, Internet fraud, and web security.
+Yue Zhang is an assistant professor at Drexel University’s Computer Science department. Before joining Drexel, Yue Zhang was working as a Postdoc in the Department of Computer Science and Engineering at The Ohio State University. His research primarily focuses on system security, specifically in the areas of IoT Security and mobile security. He has published more than 40 papers in security conferences (e.g., USENIX Security, ACM CCS, and NDSS) and journals (e.g., TDSC, TPDS). He received a Best Paper Honorable Mention Award at ACM CCS 2022, and the Best Paper Award at 2019 IEEE International Conference on Industrial Internet. He has also served on the organization committees of the conferences (e.g., track chair for IEEE MSN) and technical program committee of the conferences (e.g., USENIX Security, NDSS, ACM CCS, RAID). He serves as an editor for the Blockchain Journal, Electronics Journal, and Computers, Materials & Continua Journal. His research had led to the discovery of many vendor-acknowledged vulnerabilities, such as by Bluetooth SIG, Apple, Google, and Texas Instruments, and had attracted intense media attention such as Hacker News, and Mirage News.
