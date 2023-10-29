@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Security and Privacy Analytics Lab (SePAL)
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. In the context of security labs, "Sepal" is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of security labs in the realm of cybersecurity and information security.
   
   - block: collection
     content:
