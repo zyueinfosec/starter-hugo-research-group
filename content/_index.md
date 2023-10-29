@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        <font size="3"> The term "sepal" typically refers to one of the leaf-like structures that protect and support the petals of a flower. Sepals are typically green and enclose and protect the flower bud before it blooms. In the context of security labs, **"SePAL"** is a creative and metaphorical name that draws an analogy between the protective function of sepals in flowers and the protective function of our security lab in the realm of information privacy and security.</font>
+        <font size="3"> Security and Privacy Analytics Lab (SePAL)  at Drexel University strives to make a profound societal impact by conducting innovative research projects, fostering reliable development, and offering hands-on training programs in security and privacy domains. Our research focus encompasses program analysis, vulnerability detection, data-driven analysis, formal computer security models, vulnerability and risk assessment, and cybercrime analysis, among other areas. </font>
   
  
 ---
