@@ -5,12 +5,12 @@ event: ACM CCS 2023
 event_url: https://example.org
 
 location: Tivoli Congress Center 
- 
 address:
-  
-  city: Copenhagen 
- 
-  country:Denmark
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: ACM CCS 2023
 abstract: 'ACM CCS 2023, the ACM Conference on Computer and Communications Security, is a premier event in the field of computer security and privacy. It provides a platform for researchers, practitioners, and experts to come together and discuss the latest advancements, challenges, and innovations in the realm of cybersecurity. With a rich history of fostering cutting-edge research, ACM CCS 2023 promises to be an influential gathering that showcases groundbreaking research papers, keynotes from leading experts, and opportunities for networking and collaboration in the ever-evolving field of computer and communications security.'
