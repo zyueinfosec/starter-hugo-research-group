@@ -1,4 +1,9 @@
 ---
+<style>
+p {
+  line-height: 1.5;
+}
+</style>
 # Leave the homepage title empty to use the site title
 title:
 date: 2023-10-24
