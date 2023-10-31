@@ -1,12 +1,8 @@
 ---
 
-<script>
-
-  window.location.href = "https://zhibosun.com/";
-</script>
 # Display name
 title: Zhibo (Eric) Sun
-
+redirect_url: https://zhibosun.com/
 # Full Name (for SEO)
 first_name: Zhibo (Eric)
 last_name: Sun
