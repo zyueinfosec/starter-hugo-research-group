@@ -14,7 +14,7 @@ sections:
       text: |
      
       
-        <font size="3"> <p align="left"> **Security and Privacy Analytics Lab (SePAL)** at Drexel University strives to make a profound societal impact by conducting innovative research projects,  fostering reliable development, and offering hands-on training programs in security and privacy domains. Our research focus program analysis, vulnerability detection, data-driven analysis, formal computer security models, vulnerability and risk assessment, and cybercrime analysis, among other areas. </p> </font> 
+        <font size="3"> <p align="left"> **Security and Privacy Analytics Lab (SePAL)** at Drexel University strives to make a profound societal impact by conducting innovative research projects,  fostering reliable development, and offering hands-on training programs in security and privacy domains. Our lab conducts research in a broad range of cybersecurity topics, including program analysis, vulnerability detection, risk assessment, IoT/mobile secuirty, vulnerability and risk assessment, cybercrime analysis, and investigations into human vulnerabilities, among other areas. </p> </font> 
   
  
 ---
