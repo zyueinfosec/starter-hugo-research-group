@@ -1,8 +1,8 @@
 ---
 
 # Display name
-title: '<a href="https://zhibosun.com/">Zhibo (Eric) Sun</a>'
-# redirect_url: https://zhibosun.com/
+title: Zhibo (Eric) Sun
+url: https://zhibosun.com/
 # Full Name (for SEO)
 first_name: Zhibo (Eric)
 last_name: Sun
