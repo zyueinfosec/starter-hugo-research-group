@@ -2,7 +2,7 @@
 
 # Display name
 title: Zhibo (Eric) Sun
-url: https://zhibosun.com/
+url: 'https://zhibosun.com/'
 # Full Name (for SEO)
 first_name: Zhibo (Eric)
 last_name: Sun
