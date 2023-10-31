@@ -1,11 +1,9 @@
 ---
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="refresh" content="0;url=https://zhibosun.com/">
-</head>
 
-</html>
+<script>
+
+  window.location.href = "https://zhibosun.com/";
+</script>
 # Display name
 title: Zhibo (Eric) Sun
 
