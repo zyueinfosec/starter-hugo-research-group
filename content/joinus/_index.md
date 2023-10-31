@@ -12,16 +12,16 @@ banner:
 
 We are looking for self-motivated students who are interested in doing research in computer security and privacy to join our lab.
 
-# Ph.D. Positions
+## Ph.D. Positions
 Multiple fully-funded positions are available with an emphasis on the human factor analyais, cybercrime, reverse engineering, IoT/mobile security and program analysis.
 
-### Required Qualifications:
+#### Required Qualifications:
 
 - Passionate in Computer Security & Privacy, **Self-motivated**
 - Strong programming skills
 - Proficiency in English reading, writing, and speaking
 
-### Preferred Qualifications:
+#### Preferred Qualifications:
 Human factor & cybercrime
 - Degree in computer science, statistics, or a closely related field
 - Research experience in machine learning and data mining
