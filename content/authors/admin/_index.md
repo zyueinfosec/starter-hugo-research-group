@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhibo (Eric) Sun
+title: <a href="https://zhibosun.com">Zhibo (Eric) Sun</a>
 
 # Full Name (for SEO)
 first_name: Zhibo (Eric)
