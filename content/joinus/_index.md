@@ -1,5 +1,5 @@
 ---
-title:  Join Us
+title:  Join Us!
 
 # Listing view
 # view: compact
@@ -10,22 +10,24 @@ banner:
   image: ''
 ---
 
-We are looking for self-motivated students who are interested in doing research in computer security and privacy to join our lab.
+We are always on the lookout for smart and motivated students (undergrad & grad) with strong academic background to join us. 
 
 ## Ph.D. Positions
 Multiple fully-funded positions are available with an emphasis on the human factor analyais, cybercrime, reverse engineering, IoT/mobile security and program analysis.
 
-#### Required Qualifications:
+### Required Qualifications:
 
 - Passionate in Computer Security & Privacy, **Self-motivated**
 - Strong programming skills
 - Proficiency in English reading, writing, and speaking
 
-#### Preferred Qualifications:
-Human factor & cybercrime
+### Preferred Qualifications:
+*Human factor & cybercrime* 
+
 - Degree in computer science, statistics, or a closely related field
 - Research experience in machine learning and data mining
 - Research experience in qualitative and quantitative analysis
 
-Reverse engineering, IoT/mobile security and program analysis
+*IoT/mobile security and program analysis*
+
 - Have experience in reverse engineering and program analysis
