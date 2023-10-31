@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Eric(Zhibo) Sun
+title: Zhibo (Eric) Sun
 
 # Full Name (for SEO)
-first_name: Eric (Zhibo)
+first_name: Zhibo (Eric)
 last_name: Sun
 
 # Is this the primary user of the site?
@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
 Eric Sun is an Assistant Professor in the College of Computing & Informatics (CCI) at Drexel University. 
