@@ -21,10 +21,10 @@ main:
   #   weight: 40
   - name: Publications
     url: publication
-    weight: 30
+    weight: 40
   - name: Join us
     url: joinus
-    weight: 40
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
