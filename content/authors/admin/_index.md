@@ -2,7 +2,7 @@
 
 # Display name
 title: Zhibo (Eric) Sun
-url: 'https://zhibosun.com/'
+
 # Full Name (for SEO)
 first_name: Zhibo (Eric)
 last_name: Sun
@@ -22,7 +22,7 @@ organizations:
 bio: Eric Sun is an Assistant Professor in the College of Computing & Informatics (CCI) at Drexel University. 
 
 interests:
-  - Computer Security and Privacy
+  # - Computer Security and Privacy
 
   
 
@@ -31,6 +31,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://zhibosun.com/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zs384@drexel.edu'
