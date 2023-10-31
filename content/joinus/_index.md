@@ -2,7 +2,7 @@
 title:  Join Us
 
 # Listing view
-view: compact
+# view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
