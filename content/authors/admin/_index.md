@@ -1,4 +1,11 @@
 ---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0;url=https://zhibosun.com/">
+</head>
+
+</html>
 # Display name
 title: Zhibo (Eric) Sun
 
