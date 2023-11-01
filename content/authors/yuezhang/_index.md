@@ -20,7 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Yue Zhang is an assistant professor at Drexel University’s Computer Science department. 
 
-
+# interests:
+#   - Computer Security and Privacy
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
