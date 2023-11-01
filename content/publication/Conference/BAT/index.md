@@ -2,7 +2,7 @@
 title: 'When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure'
 authors:
   
-  - Yue Zhang
+  - **Yue Zhang**
   - Zhiqiang Lin
 date: '2022-11-07T00:00:00Z'
 doi: ''
