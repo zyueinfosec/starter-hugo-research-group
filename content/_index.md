@@ -8,13 +8,24 @@ type: landing
 sections:
   - block: hero
     content:
-       
+     
       image:
-        filename: welcome.jpg
-      text: |
+        filename: csdpt.png
+
+        
+      text: |-
      
       
-        <font size="4"> <p align="left"> **Security and Privacy Analytics Lab (SePAL)** at Drexel University strives to make a profound societal impact by conducting innovative research projects,  fostering reliable development, and offering hands-on training programs in security and privacy domains. Our lab conducts research in a broad range of cybersecurity topics, including program analysis, vulnerability detection, risk assessment, IoT/mobile secuirty, vulnerability and risk assessment, cybercrime analysis, and investigations into human vulnerabilities, among other areas. </p> </font> 
+        <font size="4"> <p align="left">
         
+        At Security and Privacy Analytics Lab (SePAL), we're dedicated to advancing the cybersecurity frontier through groundbreaking research and specialized training in security and privacy. 
+
+        Our team addresses a broad spectrum of cybersecurity challenges, including program analysis, vulnerability detection, risk assessment, IoT/mobile security, risk assessment, and cybercrime. Beyond addressing technical concerns, we investigate human vulnerabilities in cybersecurity, striving to forge a more protected and secure society.</p></font>
+    # design:
+    #   # Choose an optional background color, gradient, image, or video
+    #   background:
+    #     gradient_end: '#1976d2'
+    #     gradient_start: '#004ba0'
+    #     text_color_light: true
      
 ---
