@@ -31,3 +31,5 @@ Multiple fully-funded positions are available with an emphasis on the human fact
 *IoT/mobile security and program analysis*
 
 - Have experience in reverse engineering and program analysis
+- Have experience in vulnerabilities discovery (e.g., confirmed CVEs)
+- Have experience in CTF competitions
