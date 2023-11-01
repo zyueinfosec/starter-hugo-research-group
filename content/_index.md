@@ -10,7 +10,7 @@ sections:
     content:
      
       image:
-        filename: csdpt.png
+        filename: cswelcome.png
 
         
       text: |-
