@@ -14,7 +14,7 @@ sections:
 
         
       text: |-
-        <font size="3.5"> <p align="left">
+        <font size="3.5"> 
         At **Security and Privacy Analytics Lab (SePAL)**, we're dedicated to advancing the cybersecurity frontier through groundbreaking research and specialized training in security and privacy. Our team addresses a broad spectrum of cybersecurity challenges:
 - Program analysis 
 - Vulnerability detection
@@ -23,7 +23,7 @@ sections:
 - Mobile security 
 - Risk assessment
 - Cybercrime 
-- Human vulnerabilities.</p></font>
+- Human vulnerabilities.</font>
 
     # design:
     #   # Choose an optional background color, gradient, image, or video
