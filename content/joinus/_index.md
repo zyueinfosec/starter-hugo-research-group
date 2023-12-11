@@ -13,7 +13,7 @@ banner:
 We are always on the lookout for smart and motivated students (undergrad & grad) with strong academic background to join us. 
 
 ## Ph.D. Positions
-Multiple fully-funded positions are available with an emphasis on the human factor analyais, cybercrime, reverse engineering, IoT/mobile security and program analysis.
+Multiple fully-funded positions are available with an emphasis on the human factor analysis, cybercrime, reverse engineering, IoT/mobile security and program analysis.
 
 ### Required Qualifications:
 
