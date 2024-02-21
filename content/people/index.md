@@ -13,12 +13,12 @@ sections:
       user_groups:
           - Faculty
           - PhD Students
-          - Master's Students
+          - Master Students
           - Undergraduate Students
           - Principal Investigators
           - Researchers
           - Grad Students
-          - Administration
+          - Internship Students
           - Visitors
           - Alumni
       sort_by: Params.last_name
