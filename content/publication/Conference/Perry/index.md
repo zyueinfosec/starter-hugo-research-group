@@ -35,8 +35,8 @@ featured: true
 
 links:
   - name: Cite
-    url:  
-url_pdf:  
+    url:  https://sepal2023.netlify.app/publication/
+url_pdf:  https://sepal2023.netlify.app/publication/
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
