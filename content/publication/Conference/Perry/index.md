@@ -1,5 +1,5 @@
 ---
-title: 'A Friend's Eye is A Good Mirror: Synthesizing MCU Peripheral Models from Peripheral Driver'
+title: 'A Friends Eye is A Good Mirror: Synthesizing MCU Peripheral Models from Peripheral Driver'
 authors:
 
   - Chongqing Lei 
