@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chen Sun
+title: Baojuan Wang
 
 # Full Name (for SEO)
-first_name: Chen
-last_name: Sun
+first_name: Baojuan
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,7 +41,7 @@ social:
     link: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cs3884@drexel.edu'
+    link: 'mailto:bw689@drexel.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link:  
