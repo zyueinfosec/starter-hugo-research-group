@@ -1,20 +1,17 @@
 ---
-title: 'CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing'
+title: 'From Victims to Defenders: An Exploration of the Phishing Attack Reporting Ecosystem'
 authors:
+  - EricSun
+  - Faris Bugra Kokulu
   - Penghui Zhang
   - Adam Oest
-  - Haehyun Cho
-  - EricSun
-  - RC Johnson
-  - Brad Wardman
-  - Shaown Sarker
-  - Alexandros Kapravelos
+  - Gianluca Stringhini
   - Tiffany Bao
   - Ruoyu Wang
   - Yan Shoshitaishvili
   - Adam Doupe
   - Gail-Joon Ahn
-date: '2021-05-01T00:00:00Z'
+date: '2024-10-01T00:00:00Z'
 doi: ''
 share: false
 
@@ -28,8 +25,8 @@ share: false
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Symposium on Security and Privacy
-publication_short: In *Oakland*
+publication: The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)
+publication_short: In *RAID*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -41,8 +38,8 @@ featured: true
 
 links:
   - name: Cite
-    url: https://zhibosun.com/assets/publication/oakland/crawlphish.txt
-url_pdf: https://zhibosun.com/assets/publication/oakland/crawlphish-oakland21.pdf
+    url: https://zhibosun.com/assets/publication/raid/raid2024_bib.txt
+url_pdf: https://zhibosun.com/assets/publication/raid/raid2024.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

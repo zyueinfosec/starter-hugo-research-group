@@ -1,20 +1,16 @@
 ---
-title: 'CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing'
+title: 'Nothing Personal: Understanding the Theft, Spread, and Use of Personally Identifiable Information in the Financial Ecosystem'
 authors:
-  - Penghui Zhang
+  - Mehrnoosh Zaeifi
+  - Faezeh Kalantari
   - Adam Oest
-  - Haehyun Cho
   - EricSun
-  - RC Johnson
-  - Brad Wardman
-  - Shaown Sarker
-  - Alexandros Kapravelos
+  - Gail-Joon Ahn
+  - Yan Shoshitaishvili
   - Tiffany Bao
   - Ruoyu Wang
-  - Yan Shoshitaishvili
   - Adam Doupe
-  - Gail-Joon Ahn
-date: '2021-05-01T00:00:00Z'
+date: '2024-06-01T00:00:00Z'
 doi: ''
 share: false
 
@@ -28,8 +24,8 @@ share: false
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Symposium on Security and Privacy
-publication_short: In *Oakland*
+publication: The 14th ACM Conference on Data and Application Security and Privacy 
+publication_short: In *CODASPY*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -41,8 +37,8 @@ featured: true
 
 links:
   - name: Cite
-    url: https://zhibosun.com/assets/publication/oakland/crawlphish.txt
-url_pdf: https://zhibosun.com/assets/publication/oakland/crawlphish-oakland21.pdf
+    url: https://zhibosun.com/assets/publication/codaspy/codaspy2024_bib.txt
+url_pdf: https://zhibosun.com/assets/publication/codaspy/codaspy2024.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
